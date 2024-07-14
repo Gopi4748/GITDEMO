@@ -57,6 +57,8 @@ public class Basics {
 	System.out.println(actualAddress);
 	Assert.assertEquals(actualAddress, "newaddress"); //TestNG assertions
 	
+	System.out.println("GITTEST");
+	System.out.println("GITTEST2");
 	}
 
 }

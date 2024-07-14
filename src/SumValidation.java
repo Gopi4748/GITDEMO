@@ -25,6 +25,7 @@ public class SumValidation {
 			}
 		 System.out.println(sum);
 		 System.out.println("i am printing sum");
+		 System.out.println("i am printing sum for GIT tests");
 		int purchaseamount= js.getInt("dashboard.purchaseAmount");
 		Assert.assertEquals(sum, purchaseamount);
 		
